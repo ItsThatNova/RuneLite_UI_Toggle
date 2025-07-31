@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# RuneLite UI Toggle
+RuneLite OSRS Plugin that includes UI visibility toggles as well as a hotkey to toggle on or off currently visible or last made visible UI elements while respecting game-triggered UI visibility (mini-map in Barrows etc).
